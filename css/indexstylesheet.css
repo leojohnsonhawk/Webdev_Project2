@@ -1,0 +1,36 @@
+body {
+    background: lightgreen;
+}
+
+h1 {
+    color: darkred;
+    font-family: "Copperplate", "Papyrus", fantasy;
+    text-decoration-line: underline;
+    text-decoration-color: grey;
+	text-align: center;
+}
+h2 {
+	font-family: verdana;
+	text-align:center;
+}
+
+h3 {
+	text-align: center;
+	font-family: "Brush Script MT", "Lucida Handwriting", fantasy;
+}
+
+
+img {
+    border: 3px solid black;
+ 
+}
+ul li{
+	font-family:
+"Arial","Verdana", Sans-serif;
+}
+p {
+text-align:center;
+font-family: 	"Arial","Verdana", Sans-serif;
+ border: 2px solid;
+ padding: 10px;
+}
