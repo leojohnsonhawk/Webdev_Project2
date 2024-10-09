@@ -12,11 +12,13 @@ h1 {
 h2 {
 	font-family: verdana;
 	text-align:center;
+	
 }
 
 h3 {
 	text-align: center;
 	font-family: "Brush Script MT", "Lucida Handwriting", fantasy;
+	font-size: 150%;
 }
 
 
@@ -24,9 +26,21 @@ img {
     border: 3px solid black;
  
 }
+nav ul {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	padding: 1rem;
+	margin: 0;
+	position: sticky;
+	 top: 0;
+	 background-color: red;
+
+}
 ul li{
 	font-family:
 "Arial","Verdana", Sans-serif;
+	margin: 0 2rem;
 }
 p {
 text-align:center;
