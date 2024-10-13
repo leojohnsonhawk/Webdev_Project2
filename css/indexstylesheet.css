@@ -4,10 +4,7 @@ body {
     background: lightgreen;
 	position:relative;
 
-.fixed-width .container {
-    width: 960px;
-    margin: 0 auto;
-}
+
 .fluid-layout .container {
     width: 100%;
     max-width: 1200px;
