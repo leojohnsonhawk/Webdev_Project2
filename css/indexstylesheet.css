@@ -32,7 +32,12 @@ h2 {
 	font-family: verdana;
 	text-align:center;
 	text-transform: uppercase;
+	outline-offset: 15px;
 	
+}
+.active {
+    background-color: #04AA6D;
+	color: white;
 }
 
 h3 {
@@ -63,6 +68,9 @@ nav ul {
 nav ul li a {
   text-decoration: none;
   background-color: cyan;
+}
+li a:hover {
+  background-color: #111;
 }
 nav:active {
   color: green;
