@@ -72,8 +72,11 @@ nav ul li a {
 li a:hover {
   background-color: #111;
 }
-nav:active {
+li a:active {
   color: green;
+}
+li a:visited {
+  color: red;
 }
 .roboto-regular {
   font-family: "Roboto", sans-serif;
